@@ -1,0 +1,4 @@
+Kapan menggunakan list:
+- Ketika ingin mengatur elemen
+- ingin melakukan manipulasi 
+- ketika elemen yang km punyai tidak uniq

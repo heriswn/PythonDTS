@@ -1,0 +1,6 @@
+Jupyter Notebook
+- Open Sources
+- For Data Science
+
+install anaconda in ubuntu
+https://www.hostinger.com/tutorials/how-to-install-anaconda-on-ubuntu/
